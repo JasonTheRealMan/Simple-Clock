@@ -1,0 +1,1 @@
+A simple c++ clock. Nothing fancy just basics, was testing to see how much i remember.
